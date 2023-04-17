@@ -1,0 +1,13 @@
+Goals:
+
+	-To gain a better understanding of how to create a website.
+	
+	-To create a fully functioning database for our website.
+	
+	-To create a website that is at least semi presentable and fully functional.
+
+	-Figure out how to embed a React App into our website
+	
+	-Figure out how to link database -> login system 
+	
+	-Have a functuning stylesheet

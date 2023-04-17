@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+    font-family: "Roboto Medium";
+    font-size: 18px;
+    margin: 0;
+}
+
+input[type=text], input[type=text], input[type=text], input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.container {
+    margin-left: 20%;
+    padding: 16px;
+}
+
+.rsvp {
+    display: block;
+    color: darkred;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.rsvp_text {
+    text-align: center;
+    margin-left: 22%;
+}
